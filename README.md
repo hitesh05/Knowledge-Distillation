@@ -39,28 +39,28 @@ The networks are same with Tabel 6 in [paper](https://arxiv.org/pdf/1512.03385.p
       <td>CIFAR10</td>
    </tr>
    <tr>
-      <td>-</td>
+      <td>resnet-110</td>
       <td>resnet-20</td>
       <td>Baseline</td>
-      <td>65.72%</td> 
+      <td>93%</td> 
    </tr>
    <tr>
       <td>resnet-110</td>
       <td>resnet-20</td>
       <td>ST</td>
-      <td>67.53%</td>
+      <td>85.34%</td>
    </tr>
    <tr>
       <td>resnet-110</td>
       <td>resnet-20</td>
       <td>Fitnet</td>
-      <td>68.00%</td>
+      <td>85.57%</td>
    </tr>
    <tr>
       <td>resnet-110</td>
       <td>resnet-20</td>
       <td>RKD</td>
-      <td>69.05%</td>
+      <td>87%</td>
    </tr>
 </table>
 
