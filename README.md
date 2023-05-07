@@ -2,12 +2,12 @@
 
 Pytorch implementation of various Knowledge Distillation (KD) methods. 
 ## Lists
-  Name | Method | Paper Link | Code Link
-  :---- | ----- | :----: | :----:
-  Baseline | basic model with softmax loss | — | [code](https://github.com/AberHu/Knowledge-Distillation-Zoo/blob/master/train_base.py)
-  ST       | soft target | [paper](https://arxiv.org/pdf/1503.02531.pdf) | [code](https://github.com/AberHu/Knowledge-Distillation-Zoo/blob/master/kd_losses/st.py)
-  Fitnet   | hints for thin deep nets | [paper](https://arxiv.org/pdf/1412.6550.pdf) | [code](https://github.com/AberHu/Knowledge-Distillation-Zoo/blob/master/kd_losses/fitnet.py)
-  RKD      | relational knowledge distillation | [paper](https://arxiv.org/pdf/1904.05068.pdf) | [code](https://github.com/AberHu/Knowledge-Distillation-Zoo/blob/master/kd_losses/rkd.py)
+  Name | Method | Paper Link
+  :---- | ----- | :----:
+  Baseline | basic model with softmax loss | —
+  ST       | soft target | [paper](https://arxiv.org/pdf/1503.02531.pdf)
+  Fitnet   | hints for thin deep nets | [paper](https://arxiv.org/pdf/1412.6550.pdf)
+  RKD      | relational knowledge distillation | [paper](https://arxiv.org/pdf/1904.05068.pdf)
 
 ## Datasets
 - CIFAR100
